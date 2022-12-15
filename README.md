@@ -4,7 +4,7 @@ Git hub is very yes.
 
 ---
 
-<strong>WESTFALIA RENTALS</strong> - <a href="https://github.com/tmontobbio/movie-hunter" target="_blank"/>Repo</a>
+<strong>WESTFALIA RENTALS</strong> - <a href="https://github.com/mroesinger/Westfalia-Rentals" target="_blank"/>Repo</a>
 </br>Being an Volkswagen camper enthusiast, I thought it would be fun to make a website where my friends in the van community could rent their vans to one another.
 
 ### Skills
