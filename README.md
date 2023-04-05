@@ -7,6 +7,9 @@ Full stack developer and life long problem solver. Emerging from a career in Ger
 <strong>WESTFALIA RENTALS</strong> - <a href="https://www.loom.com/share/7f5f2c913b854e7d84dc7d44a838436d" target="_blank"/>Demo </a> | <a href="https://github.com/mroesinger/Westfalia-Rentals" target="_blank"/> Repo</a>
 </br>Being a Volkswagen camper enthusiast, I thought it would be fun to make a website where my friends in the van community could rent their westfalias to one another.
 
+<strong>Portfolio</strong> - <a href="roesinger.dev" target="_blank"/>Roesinger</a> | <a href="https://github.com/mroesinger/portfolio" target="_blank"/> Repo</a>
+</br>Work in progress of my portfolio, showcasing relevant personal projects.
+
 ### Skills
 
 ---
