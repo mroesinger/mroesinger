@@ -13,6 +13,9 @@ website where my friends in the van community could rent their
 westfalias to one another. The app allows users to interact with each
 other and rent vans from van owners for their own camping adventures.
 
+<strong>SYNTH⏚SWAP</strong> - <a href="https://roesinger.dev" target="_blank"/>synthswap.roesinger.dev</a> | <a href="https://github.com/mroesinger/portfolio" target="_blank"/> Repo</a>
+</br>My very first JavaScript project showcasing my passion for vintage synthesizers.
+
 ### Skills
 
 ---
